@@ -1,6 +1,6 @@
 # PortofolioCVEnrichment
 
-Halo , Selamat siang, sore, malam untuk kalian yang melihat tulisan ini
+Halo , Salam sejahtera untuk kalian yang membaca tulisan ini
 
 disini saya ingin memperkenalkan diri saya secara singkat,
 Perkenalkan
