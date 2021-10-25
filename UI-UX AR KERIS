@@ -1,0 +1,41 @@
+Project Augemented Reality Keris Online
+
+Link Onedrive Aplikasi Keris Online : https://1drv.ms/u/s!Ao87VT8GZPw0iBOa97-1rrhFw7Ch?e=1hoeyp
+
+1. 
+
+PROSES PEMBUATAN AR KERIS
+Proses pembuatan diawali dengan mencari model dari keris yang dibutuhkan, setelah menemukan model yang dibutuhkan maka dimulai lah proses pembuatan 3D dari keris tersebut. pembuatan model 3D keris tersebut kami buat melalui BLENDER ,kenapa kami menggunakan aplikasi tersebut karena kami telah mempelajari beberapa tools dari aplikasi tersebut dan menurut kami cukup mudah untuk menggunakannya.
+
+Untuk membentuk bentuk dari keris sendiri, kita menggunakan kubus dan melakukan penyesuaian terhadap bentuk dan lekukan dari keris tersebut, hingga aplikasi ini selesai dibuat kami sudah membuat 2 bentuk keris yaitu Keris Naga Runting dan Keris Kyai Sengkalet. Kami memilih 2 keris tersebut karena menurut kami bentuk dan pola dari keris tersebut tidak terlalu rumit untuk dibuat dalam bentuk 3D 2
+
+PROSES PEMBUATAN APLIKASI KERIS ONLINE
+3
+
+Kemudian setelah proses pembuatan 3D tersebut selesai, kami melanjutkan proses pembuatan Aplikasi keris online itu sendiri, untuk membuat aplikasi tersebut kami menggunakan Unity. untuk membuat UI dari aplikasi keris online kami menggunakan Marvelapp yang kemudian diimplementasikan kedalam Unity. 4
+
+setelah pembuatan UI selesai, dilanjutkan pembuatan Button untuk melakukan interaksi dengan aplikasi keris online tersebut.
+
+TAMPILAN UI DARI APLIKASI KERIS ONLINE
+Halaman Awal
+Keris1
+
+Pada halaman ini tersedia 3 menu utama yaitu :
+
+Mulai
+Informasi
+About
+Menu Mulai
+k1 k2
+
+Nah dari semua menu yang telah disediakan pengguna dapat mengakses jika pengguna click bagian mulai maka pengguna akan masuk ke mode kamera ar yang menampilkan gambar visual keris. Nah dari semua menu yang telah disediakan pengguna dapat mengakses jika pengguna click bagian mulai maka pengguna akan masuk ke mode kamera ar yang menampilkan gambar visual keris.
+
+Menu Informasi
+ke1 ke2
+
+Menu Informasi ini menyediakan informasi dari Kedua jenis keris tersebut, yaitu Keris Naga Runting dan Keris Kyai Sengkalet
+
+Menu About
+kris1
+
+Lalu ada menu about yang menunjukan tampilan versi aplikasi dan personal email pembuat aplikasi keris AR ini
