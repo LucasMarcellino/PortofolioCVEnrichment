@@ -1,19 +1,10 @@
 # PortofolioCVEnrichment
 
-Halo , Salam sejahtera untuk kalian yang membaca tulisan ini
+Halo , Salam sejahtera untuk kalian semua
+Perkenalkan nama saya Lucas Marcellino, Umur 21 tahun
+bertempat tinggal di Desa karangrejo boyolangu, Tulungagung, Jawa Timur
 
-disini saya ingin memperkenalkan diri saya secara singkat,
-Perkenalkan
-
-Nama saya Lucas Marcellino, 
-
-Umur 21 tahun, 
-
-tempat tinggal di Karangrejo boyolangu, kabupaten Tulungagung, Provinsi Jawa Timur
-
-Saat ini saya berkuliah di salah satu kampus di kota malang yaitu BINUS Malang dan mengambil jurusan Tehnik informatika.
-keahlian saya lebih mengarah ke UI/UX design, karena saya juga lebih tertarik pada bidang design dan berharap
-bisa mengembangkan nya saat program enrichmen pada semester depan. 
+Saat ini sedang menempuh pendidikan di Universitas Bina Nusantara yang berada di Malang. pada semester ini saya diharuskan melakukan Enrichment, dan saya memilih untuk melakukan internship di perusahaan yang berjalan di bidang UI/UX dengan harapan dapat mengembangkan serta menerapkan apa yang telah saya pelajari selama di perkuliahan.
 
 Sekian dan Terima kasih
 --
